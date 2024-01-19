@@ -18,14 +18,14 @@ This small Flask app leverages Twilio and Google's generative AI tools to recrea
 ## Demo
 
 <p align="center">
-  <img width="50%" src="./images/generated_output/Screenshot_20240118-164555.png" alt="Example conversation with image processing">
+  <img width="30%" src="./images/generated_output/Screenshot_20240118-164555.png" alt="Example conversation with image processing">
 </p>
 
 **Example conversation demonstrating image processing**
 
 <p align="center">
-  <img width="49%" src="./images/generated_output/Screenshot_20240118-164628.png" alt="Example conversation 1">
-  <img width="49%" src="./images/generated_output/Screenshot_20240118-164637.png" alt="Example conversation 2">
+  <img width="29%" src="./images/generated_output/Screenshot_20240118-164628.png" alt="Example conversation 1">
+  <img width="29%" src="./images/generated_output/Screenshot_20240118-164637.png" alt="Example conversation 2">
 </p>
 
 **Additional examples of storytelling with image processing**
