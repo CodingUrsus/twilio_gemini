@@ -17,12 +17,12 @@ This small Flask app leverages Twilio and Google's generative AI tools to recrea
 
 ## Demo
 
-![Example conversation with image processing](./twilio_gemini/images/generated_output/Screenshot_20240118-164555.png)
+![Example conversation with image processing](./images/generated_output/Screenshot_20240118-164555.png)
 
 **Example conversation of image processing**
 
-![Example conversation 1](./twilio_gemini/images/generated_output/Screenshot_20240118-164628.png)
-![Example conversation 2](./twilio_gemini/images/generated_output/Screenshot_20240118-164637.png)
+![Example conversation 1](./images/generated_output/Screenshot_20240118-164628.png)
+![Example conversation 2](./images/generated_output/Screenshot_20240118-164637.png)
 
 **Additional examples of storytelling with image processing**
 
